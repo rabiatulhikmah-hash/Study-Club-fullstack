@@ -20,7 +20,6 @@ Berisi web sederhana dari brand ini yang memuat :
 * about
 <img width="1864" height="912" alt="Screenshot 2025-08-15 210809" src="https://github.com/user-attachments/assets/725f6855-aae8-441b-ae4a-58315abc86e8" />
 <img width="1912" height="917" alt="Screenshot 2025-08-15 210821" src="https://github.com/user-attachments/assets/0b32266d-4f02-4f46-ae24-5289e05c25c9" />
-tachments/assets/d4011e70-5c6d-4d11-9a5d-d082fdc19a82" />
 <img width="1792" height="836" alt="Screenshot 2025-08-15 210835" src="https://github.com/user-attachments/assets/14682214-f869-4973-a5dc-f7246ad78229" />
 
 * contact
